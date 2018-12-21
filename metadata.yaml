@@ -1,0 +1,25 @@
+_repo: Saint-Vincent-with-notes-and-publishers-prices_58472
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Bacon, E. D.
+    gutenberg_agent_id: '49975'
+    url: http://www.gutenberg.org/2009/agents/49975
+  - agent_name: Napier, Francis H.
+    gutenberg_agent_id: '49974'
+    url: http://www.gutenberg.org/2009/agents/49974
+description: ''
+gutenberg_issued: '2018-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58472'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Stanley Gibbons Philatelic Handbooks
+subjects:
+- !lcsh 'Postage stamps -- Saint Vincent and the Grenadines'
+- GITenberg
+title: Saint Vincent, with notes and publishers' prices
+url: http://www.gutenberg.org/ebooks/58472
